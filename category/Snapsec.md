@@ -30,5 +30,5 @@ title: Snapsec
 
 Know More at [Snapsec.co](http://snapsec.co) and Get in touch with us at [http://snapsec.co/snapsec/#contact](http://snapsec.co/snapsec/#contact)
 
-Thanks for visting our website | @imranparray
+Thanks for visting our website \| @imranparray
 
