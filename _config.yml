@@ -4,9 +4,9 @@ highlighter:      rouge
 
 # Setup
 title:            'Imran Parray'
-tagline:          'Independent Security Researcher'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+tagline:          'Independent Cyber Security Researcher'
+description:      'Independent Cyber Security Researcher'
+url:              imranparray.com
 baseurl:          '/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
