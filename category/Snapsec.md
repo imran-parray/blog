@@ -28,8 +28,7 @@ We believe security testing is one of the key elements to make sure your digital
 > Get to know out team at [http://snapsec.co/snapsec/#team](http://snapsec.co/snapsec/#team)
 
 
-__Know More at [Snapsec.co](http://snapsec.co) and Get in touch with us at [http://snapsec.co/snapsec/#contact](http://snapsec.co/snapsec/#contact)__
-
+Know More at [Snapsec.co](http://snapsec.co) and Get in touch with us at [http://snapsec.co/snapsec/#contact](http://snapsec.co/snapsec/#contact)
 
 Thanks for visting our website | @imranparray
 
