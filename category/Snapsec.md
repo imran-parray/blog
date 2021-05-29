@@ -12,7 +12,7 @@ title: Snapsec
 
 #### Our belief 
 
-We believe security testing is one of the key elements to make sure your digital assets are fully protected from the outside cyber attacks, But due the fact that security is becomming more important that any other services in the IT industry, We decided to make sure that security becomes less expensive and affordable for each and every small business or startup. Our team is full trained to test your online assets againt old and new kind of cyber attacks.
+> We believe security testing is one of the key elements to make sure your digital assets are fully protected from the outside cyber attacks, But due the fact that security is becomming more important that any other services in the IT industry, We decided to make sure that security becomes less expensive and affordable for each and every small business or startup. Our team is full trained to test your online assets againt old and new kind of cyber attacks.
 
 
 #### What service do we provide
