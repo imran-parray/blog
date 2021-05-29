@@ -12,11 +12,11 @@ layout: default
   <article class="post-body">
     <h3 class="post-title">
       <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
+        {{ post.title }} | {% include post-meta.html post=post %}
       </a>
     </h3>
     
-    <h4>{% include post-meta.html post=post %}</h4>
+    
 
   
   </article>
