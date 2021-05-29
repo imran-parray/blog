@@ -2,7 +2,12 @@
 layout: page
 title: About
 sidebar_link: true
+published: true
 ---
+
+
+
+![x](https://raw.githubusercontent.com/imran-parray/blog/master/_screenshots/imran.jpg)
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it
