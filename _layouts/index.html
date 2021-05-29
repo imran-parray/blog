@@ -6,7 +6,8 @@ layout: default
   {% include pagination-newer.html %}
 
   {{ content }}
-  <h2> Writeups:</h2>
+  <h1>List of Writeups</h1>
+  <hr>
   {% for post in paginator.posts %}
   <article class="post-body">
     <h3 class="post-title">
